@@ -1,0 +1,30 @@
+[
+    {
+        "text": "What is your favorite Sport?",
+        "choices": [
+            "Football",
+            "Hockey",
+            "BasketBall",
+            "Soccer",
+            "BaseBall"
+        ]
+    },
+    {
+        "text": "Which Social Media app do you use the most?",
+        "choices": [
+            "Facebook",
+            "Snapchat",
+            "Instagram",
+            "Twitter",
+            "Pinterest",
+            "Tinder"
+        ]
+    },
+    {
+        "text": "Who do you think will win the US Presidential Election?",
+        "choices": [
+            "Donald Trump",
+            "Hillary Clinton"
+        ]
+    }
+]
